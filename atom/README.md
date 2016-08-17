@@ -27,3 +27,5 @@ jumpy (apm install jumpy)
 jeremyramin/terminal-plus
 
 atom-beautify
+
+atomic-emacs (apm install atomic-emacs)
