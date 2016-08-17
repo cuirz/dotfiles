@@ -25,3 +25,5 @@ wakatime/atom-wakatime
 jumpy (apm install jumpy)
 
 jeremyramin/terminal-plus
+
+atom-beautify
