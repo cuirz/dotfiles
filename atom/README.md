@@ -17,6 +17,10 @@ ddavison/rest-client
 skandasoft/browser-plus
 
 akonwi/git-plus
+
+jstemmer/gotags
+godebugger
+
 brianchung808/git-clone
 smashwilson/merge-conflicts
 
@@ -29,3 +33,11 @@ jeremyramin/terminal-plus
 atom-beautify
 
 atomic-emacs (apm install atomic-emacs)
+
+vim-mode
+
+dash
+
+seti-icon
+
+sync-settings
