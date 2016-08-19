@@ -41,3 +41,5 @@ dash
 seti-icon
 
 sync-settings
+
+tree-view-search-bar (apm install tree-view-search-ba)
